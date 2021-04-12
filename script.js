@@ -34,6 +34,12 @@ let jsonDatabase = [
     "image" : "colombia3.jpeg",
     "color" : "#F29381",
     "notes" : ["bright citrus", "orange oil", "jasmine florality"]
+  },
+  {
+    "title" : "Yandaro",
+    "image" : "burundi2.png",
+    "color" : "#CAE184",
+    "notes" : ["dried prune fruits", "baking spice", "citrus acidity"]
   }
 ];
 
