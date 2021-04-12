@@ -1,0 +1,58 @@
+html, body, #main {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Jost', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 20px;
+  line-height: 2em;
+  letter-spacing: 1.5px;
+}
+
+#coffeeGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.notes {
+  text-align: center;
+  padding-right: 44px;
+}
+
+.gridItem {
+  padding-top: 60px;
+}
+
+.gridImage {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+
+#sey {
+  position: fixed;
+  top: 18px;
+  right: 18px;
+
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+
+#outputText {
+  font-style: italic;
+}
+
+#beanRec {
+  font-size: 18px;
+  background-color: #FAF9F6;
+  padding: 20px;
+}
+
+#footer {
+  font-size: 16px;
+  padding: 25px;
+}
