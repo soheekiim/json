@@ -1,7 +1,7 @@
 var outputText = document.getElementById('outputText');
 var contentGrid = document.getElementById('coffeeGrid');
 var executeButton = document.getElementById("coffee");
-var coffee = ["Laura Rivera", "Nemba", "El Porvenir", "Sitio Sao Niguel", "La Casita"];
+var coffee = ["Laura Rivera", "Nemba", "El Porvenir", "Sitio Sao Niguel", "La Casita", "Yandaro"];
 
 
 let jsonDatabase = [
